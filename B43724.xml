@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for sale by subscription of four sorts of curious perspective-glasses, newly invented Propositions pour vendre par souscription quatre sortes de lunettes d'approche, nouvellement inventées.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43724</idno><idno type="EEBO-CITATION">489263244</idno>
+  <idno type="VID">208684</idno>
+  <idno type="EEBO-PROQUEST">2240897781</idno>
+  
+            <idno type="OCLC"> 489263244</idno>
+            <idno type="OCLC">ocn 489263244</idno>
+            <idno type="STC">Wing P3744A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208684)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for sale by subscription of four sorts of curious perspective-glasses, newly invented Propositions pour vendre par souscription quatre sortes de lunettes d'approche, nouvellement inventées.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>French version of broadside is on verso.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Binoculars --  Early works to 1800.</term>
+               <term type="topical_term">Optical instruments --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:208684:1"/>
+            <pb facs="tcp:208684:2"/>
+            <div xml:lang="eng" type="version">
+               <head>PROPOSALS, For Sale by SUBSCRIPTION, Of Four Sorts of Curious Perspective-Glasses, NEWLY INVENTED;</head>
+               <p>VERY convenient for Ladies and Gentlemen, to take a view of any Persons, at the <hi>Park,</hi> the <hi>Play-Houses</hi> and such other Pub<g ref="char:EOLhyphen"/>lick Places; though for a great while, or very often, yet modestly, <hi>without any Im<g ref="char:EOLhyphen"/>pertinent Staring upon them;</hi> no other Per<g ref="char:EOLhyphen"/>sons, even if they had got these new Glasses, being able to discover, whom the Spectator looks at.</p>
+               <p>EACH of these Perspective-Glasses, being fitted into a Case made of Metal, is short and commodious to be held in the Hand, like ordinary Opera-Glasses. But by the help of this new Contrivance, the Spectator may (<hi>though he seems to look forwards,</hi> upwards, downwards or to<g ref="char:EOLhyphen"/>wards the middle, between both) with<g ref="char:EOLhyphen"/>out changing the Situation of his Eye, see the Objects that are at his right or left Hand, upwards, downwards or between both. He may likewise <hi>(when he is supposed to look towards his right or left Hand)</hi> with<g ref="char:EOLhyphen"/>out moving his Head or Eye, see the Ob<g ref="char:EOLhyphen"/>jects, which are before or behind him.</p>
+               <p>THE First sort of these Glasses, in a Case Two Inches long, makes the Objects appear as they are seen by the naked Eye, without magnifying or diminishing them. It is serviceable to such as are not Short-sighted, <hi>to take a view of others, with<g ref="char:EOLhyphen"/>out being observed by any.</hi>
+               </p>
+               <p>THE Second sort makes the Objects appear more distinct, but somewhat less than Life, and serves instead of a Con<g ref="char:EOLhyphen"/>cave-Glass, for such as are <hi>Shot-sighted.</hi> It is as short as the first sort.</p>
+               <p>THE Third sort, being Three Inches and an half in length, <hi>makes the Objects appear as big and as near again,</hi> as they are seen, without the help of Perspective-Glasses, or even with the help of the common Concave-Glass. It is proper for all sort of <hi>Short-sighted</hi> People, for whom it is often difficult, to find a hollow-glass exactly fitting: 'Tis also useful for such as have <hi>a good Sight,</hi> but cannot see very distinctly those Objects that are twice as far distant, as the bare Eye requires.</p>
+               <p>THE Fourth is in length Four Inches, and <hi>represents the Objects as big and as near again, as the Third sort does;</hi> and such Objects as are distant from the Eye three times as far, as 'tis requisite to see distinctly, are thereby made to appear clearer, near<g ref="char:EOLhyphen"/>er, and as big as they would be seen, if they were twice nearer to the naked Eye.</p>
+               <p>SOME <hi>other Proprieties of these Glasses,</hi> would be to long to be mentioned here.</p>
+               <p>THE Inventor intends to Sell by Subscription, at least One Hundred of every sort of these Perspective-Glasses; He may therefore be spoken with <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>
+                  <hi>day</hi> and <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>
+                  <hi>day</hi> from <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> to <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> of the Clock, at <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>
+                  <hi>Coffee-House,</hi>
+                  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> or <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>
+                  <hi>day</hi> and <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>
+                  <hi>day</hi> from <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> to <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> at <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>
+                  <hi>House,</hi>
+                  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> and at <add rend="onBlank">Mr. Dillon's, next door to y<seg rend="sup">e</seg> White Hart, about y<seg rend="sup">e</seg> middle of Long-acre:</add> where <hi>Subscriptions</hi> are taken in, and <hi>Proposals</hi> may be had, <add rend="onBlank">from 5. to 8. at night.</add>
+               </p>
+               <p>EVERY Subscriber to pay down half a Guinea for each Perspective-Glass, at the time of Subscription, and half a Guinea, when he receiveth it, which will be as soon as the Number of Subscriptions is full.</p>
+               <p>HE that Subscribes for Nine, to have <hi>a Tenth Gratis.</hi>
+               </p>
+               <p>THE Niceties in the Form and in the Disposition of these Perspective-Cases, as well as the Clearness, true Figure and Pro<g ref="char:EOLhyphen"/>portion of the Glasses belonging unto them, will prove too difficult and chargeable to such as shall endeavour, after having got some Model by Subscription, to <hi>imitate it Imperfectly, to no purpose.</hi> The Inventor designs to shew the way of trying the Goodness of his Perspective-Glasses; and intends to publish some other useful In<g ref="char:EOLhyphen"/>ventions and Improvements, if this be well accepted.</p>
+            </div>
+            <div xml:lang="fre" type="version">
+               <pb facs="tcp:208684:3"/>
+               <head>PROPOSITIONS Pour Vendre, par SOUSCRIPTION, Quatre Sortes de Lunettes d'Approche, NOUVELLEMENT INVENTÉES.</head>
+               <p>CURIEUSES &amp; très-com<g ref="char:EOLhyphen"/>modes pour ceux qui au <hi>Parc,</hi> à l'<hi>Opera,</hi> &amp; en tels autres endroits publics, veulent <hi>voir fixement, ou méme souvent, les Autres: Sans qu' il paroisse aucun dessein de les envisager;</hi> les Autres ne pouvant jamais decouvrit, où le Spectateur regarde, quand méme ils auroient de ces nouvelles Lunettes.</p>
+               <p>CHACUNE de ces Lunettes, ëtant mise dans des tuiaux faits de Metal, est courte &amp; peut se tenir commodement dans la main, comme les Lunettes ordi<g ref="char:EOLhyphen"/>naires, usitées à la Comedie. Mais par le moyen de cette invention, le Spectateur pourra (quand il semble aux Autres, qu' il regarde <hi>par devant;</hi> tout droit, en haut ou en bas) sans changer la Situation de son oeil, voir les Objets, qui sont à sa main droite, ou à sa gauche; en haut, en bas ou entre deux. De méme (quand les Autres croyent, qu' il regarde <hi>vers sa droite</hi> ou <hi>vers sa gauche</hi>) il pourra voir les Objets, qui sont derriere ou devant lui. Ces Lunettes ont beaucoup d'autres proprietés, dont on ne parle point ici, pour eviter d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>étre long.</p>
+               <p>LA premiere sorte de ces Lunettes, mise dans un ruiau long de 2 pouces, re<g ref="char:EOLhyphen"/>presente les Objets, comme ils paroissent à l'oeil, sans aucune augmentation ou dimi<g ref="char:EOLhyphen"/>nution optique. Elle <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ert pour ceux qui n'ont pas la veuë courte, mais qui l'ont longue &amp; bonne; <hi>pour voir les Autres, sans qu' ils s' en apperçoivent.</hi>
+               </p>
+               <p>LA seconde, aussi courte que la pre<g ref="char:EOLhyphen"/>miere, fait voir les Objets, plus claire<g ref="char:EOLhyphen"/>ment &amp; un peu plus petits, qu' ils ne le sont naturellement. Elle sert au lieu des Lunettes Concaves, pour ceux qui ont la <hi>veue courte.</hi>
+               </p>
+               <p>LA troisiéme, longue de 3½ pouces, <hi>fait paroitre les Objets, une fois plus grands &amp; une fois plus proches;</hi> qu'ils ne paroissent, sans le secours de l'optique, ou méme par les Lunettes Concaves. Elle est <hi>propre pour toute sorte de veuë courte</hi> pour laquelle on a souvent beaucop de peine, à trouver des Lunettes Concaves, qui soient exacte<g ref="char:EOLhyphen"/>ment propres. Elle sert aussi à ceux <hi>qui ont la veue bonne,</hi> mais qui ne peuvent voir distinctement les Objets, eloignez une fois plus, que l'oeil le requiert.</p>
+               <p>LA quatriéme, longue de 4 pouces, fait voir les Objets, une fois plus grands &amp; une fois plus proches, que la troisiéme sorte; c'est pour cela, qu'<hi>elle represente ces Objets, qui sont deux fois plus eloignez de l'oeil, qu' il ne le faudroit; comme s'ils etoient deux fois plus proches, &amp; dans leur grandeur naturelle.</hi>
+               </p>
+               <p>L'Inventeur se propose, de vendre par Souscription, au moins une centaine de chaque sorte de ces Lunettes; c'est pour<g ref="char:EOLhyphen"/>quoi il se trouvera le <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> &amp; le <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> depuis <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> heures du matin jusqu'à <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> au <hi>Caffë</hi> de <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> ou le <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> &amp; le <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> depuis <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> heures jusques à <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> au <hi>Caffe</hi> de <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> &amp; sur le soir, depuis heures jusqu'à <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> chez <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>
+               </p>
+               <p>CHACUN, qui Souscrira, payera d'abord une demi Guinée pour chaque Lunette, &amp; une demi Guinée davantage, quand on lui en livrera une, c'est à dire, quand le nombre proposë des Souscri<g ref="char:EOLhyphen"/>ptions sera rempli.</p>
+               <p>ON donnera <hi>Gratis la Dixiéme</hi> à celuy qui Souscrira, ou fera Souscrire, pour neus.</p>
+               <p>LE raffinement de la forme &amp; de la Disposition des tuiaux, de meme que la Perfection des Verres, leur figure &amp; leur proportion, donneront des difficultés à ceux, qui voudront tacher, de les <hi>imiter en quelque manie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e moins parfaite,</hi> qui leur deviendra <hi>inutile,</hi> aprez beaucoup d'em<g ref="char:EOLhyphen"/>baras &amp; de depenses; c'est pourquoi l'in<g ref="char:EOLhyphen"/>venteur, en delivrant ses Lunettes, fera connôitre leur Perfection; qui se propose, de publier d'autres inventions utiles, si celle-ci est bien receuë.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
